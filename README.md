@@ -1,4 +1,4 @@
-# CodeCraft Challenge 第 _ 届大赛
+# CodeCraft Challenge 第 1 届大赛
 
 ## 题目&计分规则
 
